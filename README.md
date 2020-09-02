@@ -11,4 +11,4 @@ concentration rate = number of orders for a time window/Unique number of users i
 
 As per the contest objective, find the list of shopids and userids who are involved in the brushing at any instant whne the concentration rate is greater or equal to 3.
 
-![LandingPage]()
+![LandingPage](https://github.com/mdevasish/Shopee_Order_Brushing/blob/master/Rules.png)
