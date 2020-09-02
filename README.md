@@ -10,3 +10,5 @@ The task is to detect order brushing activites between sellers and buyers on E c
 concentration rate = number of orders for a time window/Unique number of users in the time window
 
 As per the contest objective, find the list of shopids and userids who are involved in the brushing at any instant whne the concentration rate is greater or equal to 3.
+
+![LandingPage]()
